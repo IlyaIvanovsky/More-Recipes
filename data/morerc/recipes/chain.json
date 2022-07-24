@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "iron_ingot"
+		}],
+	"result": {
+		"item": "chain",
+		"count": 2
+	}
