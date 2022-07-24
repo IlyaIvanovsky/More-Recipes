@@ -4,9 +4,14 @@
 		"%%%",
 		"% %",
 		"% %"
-		],
-	"result": {
-		"item": "chainmail_leggings",
-		"count": 1
+	],
+	"key": {
+		"%": {
+			"item": "chain"
+		},
+		"result": {
+			"item": "chainmail_leggings",
+			"count": 1
+		}
 	}
 }
