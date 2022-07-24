@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"% %",
+		"%%%",
+		"%%%"
+	],
+	"result": {
+		"item": "chainmail_chestplate",
+		"count": 1
+	}
+}
