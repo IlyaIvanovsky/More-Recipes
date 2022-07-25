@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "minecraft:diamond_ore"
+    "item": "minecraft:raw_iron"
   },
-  "result": "minecraft:diamond",
+  "result": "minecraft:iron_ingot",
   "experience": 4,
   "cookingtime": 100
 }
