@@ -1,0 +1,11 @@
+{
+	"type": "smelting",
+	"ingredients": {
+		"item": "raw_copper_block"
+	},
+	"result": {
+		"item": "copper_block",
+		"experience": 0.75,
+		"cookingtime": 200
+	}
+}
