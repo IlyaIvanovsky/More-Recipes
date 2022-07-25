@@ -1,9 +1,0 @@
-{
-    "type": "smelting",
-    "ingredient": {
-        "item": "#log"
-    },
-    "result": "charcoal",
-    "experience": 1,
-    "cookingtime": 100
-}
