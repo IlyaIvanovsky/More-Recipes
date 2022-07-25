@@ -1,6 +1,6 @@
 {
 	"type": "smelting",
-	"ingredients": {
+	"ingredient": {
 		"item": "raw_copper_block"
 	},
 	"result": {
